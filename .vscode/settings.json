@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "hdel",
+    "hgetall",
+    "hmset",
+    "nanoid",
+    "ruleset",
+    "zadd",
+    "zrange",
+    "zrangebylex",
+    "zrevrangebylex"
+  ]
+}
